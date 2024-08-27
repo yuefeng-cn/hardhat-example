@@ -1,0 +1,18 @@
+{
+  "name": "hardhat-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx hardhat test",
+    "c": "npx hardhat compile",
+    "n": "npx hardhat node"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.9"
+  }
+}
